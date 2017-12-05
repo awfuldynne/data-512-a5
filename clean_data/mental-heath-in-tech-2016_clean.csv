@@ -1,0 +1,1434 @@
+age,country,self_employed,benefits,mental_health_consequence,phys_health_consequence
+39,United Kingdom,No,Not eligible for coverage / N/A,No,No
+29,United States,No,No,No,No
+38,United Kingdom,No,No,Maybe,No
+43,United Kingdom,Yes,,,
+43,United States,No,Yes,Yes,Maybe
+42,United Kingdom,No,Yes,Yes,Yes
+30,United States,No,I don't know,No,No
+37,United States,No,Yes,No,No
+44,United States,No,I don't know,Yes,Yes
+30,United States,Yes,,,
+28,United States,No,Yes,No,No
+34,United States,No,Yes,Yes,No
+30,United States,No,Yes,No,No
+44,Canada,No,Yes,No,No
+35,United States,No,Yes,No,No
+52,United States,No,I don't know,Maybe,Maybe
+32,Canada,No,Not eligible for coverage / N/A,Maybe,No
+34,United Kingdom,No,No,Maybe,No
+25,United States,Yes,,,
+31,United States,No,I don't know,Yes,No
+26,United States,No,No,No,No
+35,United States,No,Yes,No,No
+25,Germany,No,Yes,Maybe,Maybe
+33,Canada,No,Yes,Maybe,No
+38,United States,Yes,,,
+42,Germany,No,Yes,No,No
+27,Netherlands,No,No,Yes,Yes
+35,Germany,No,I don't know,No,No
+34,United Kingdom,No,I don't know,Maybe,No
+32,United Kingdom,No,Not eligible for coverage / N/A,No,No
+32,Germany,No,Not eligible for coverage / N/A,Maybe,No
+30,United States,No,Yes,No,No
+31,United States,No,I don't know,Maybe,No
+37,Czech Republic,Yes,,,
+36,United Kingdom,No,Yes,No,No
+33,Germany,No,No,Maybe,No
+44,United States,No,Yes,No,No
+29,United Kingdom,No,No,No,No
+29,United Kingdom,No,No,No,No
+44,Canada,No,Yes,Maybe,No
+34,United States,Yes,,,
+40,United States,No,Yes,No,No
+46,Netherlands,No,Yes,Yes,Maybe
+28,Lithuania,Yes,,,
+41,United States,No,No,Maybe,No
+33,United States,No,Yes,Maybe,Maybe
+32,United States,Yes,,,
+45,United States,No,I don't know,Maybe,No
+43,United Kingdom,Yes,,,
+37,United States,No,Yes,No,No
+37,Australia,No,No,Maybe,Maybe
+27,United States,No,Yes,Maybe,Maybe
+31,Netherlands,Yes,,,
+36,United States,No,Yes,Maybe,Maybe
+34,United States,No,Yes,Maybe,No
+31,United States,No,Yes,Maybe,Maybe
+30,United States,No,Yes,No,No
+32,Canada,No,Yes,Maybe,No
+40,United States,No,Yes,No,No
+40,United States,No,I don't know,Maybe,No
+41,France,No,Yes,No,No
+27,United Kingdom,No,Not eligible for coverage / N/A,Yes,No
+30,United States,No,Yes,No,No
+29,Venezuela,Yes,,,
+38,United Kingdom,Yes,,,
+35,Netherlands,Yes,,,
+35,United States,No,No,Maybe,No
+29,United States,No,Yes,Maybe,Maybe
+28,United States,No,Yes,Maybe,Maybe
+27,Netherlands,No,No,No,No
+39,Poland,Yes,,,
+28,Belgium,No,Yes,No,No
+46,United States,No,I don't know,Yes,Maybe
+40,Netherlands,No,No,No,No
+37,United States,No,Yes,No,No
+41,Netherlands,No,No,No,No
+19,France,Yes,,,
+38,Netherlands,No,I don't know,No,No
+33,United States,No,I don't know,Maybe,No
+33,United States,No,Yes,No,No
+21,United Kingdom,No,Yes,No,No
+36,Brazil,No,No,Maybe,Maybe
+39,Canada,Yes,,,
+35,United States,No,I don't know,No,No
+36,France,Yes,,,
+45,United States,No,Yes,Maybe,No
+41,Canada,No,I don't know,Maybe,No
+35,United Kingdom,No,I don't know,Maybe,No
+30,United States,Yes,,,
+24,United States,No,I don't know,No,No
+33,Brazil,No,No,Maybe,No
+35,United States,No,Yes,Maybe,Maybe
+26,United Kingdom,No,No,No,No
+17,Brazil,No,No,Yes,No
+29,United States,No,I don't know,No,No
+26,United States,No,Yes,No,No
+36,United States,No,I don't know,No,No
+46,United States,No,I don't know,No,No
+39,Netherlands,Yes,,,
+28,United States,No,Yes,Maybe,No
+40,United States,No,Yes,Maybe,No
+23,United States,No,I don't know,Yes,No
+30,United States,No,I don't know,No,No
+28,United States,No,I don't know,Maybe,Maybe
+27,Netherlands,No,No,Yes,No
+31,United States,Yes,,,
+39,United States,No,Yes,Maybe,No
+34,United States,No,Yes,Maybe,Maybe
+30,United States,No,Yes,No,No
+30,Denmark,Yes,,,
+31,United States,No,I don't know,No,No
+30,United States,No,Yes,No,No
+32,United States,No,Yes,Yes,No
+22,Czech Republic,Yes,,,
+37,Belgium,Yes,,,
+51,United States,No,Yes,Maybe,Maybe
+26,United States,No,I don't know,No,No
+41,United States,No,Yes,No,No
+39,United States,No,I don't know,No,No
+43,United States,No,Yes,Maybe,No
+30,United Kingdom,No,I don't know,No,No
+24,United States,No,Yes,No,No
+30,Netherlands,Yes,,,
+28,Germany,No,No,Yes,Maybe
+48,United States,Yes,,,
+55,United States,Yes,,,
+36,United States,No,I don't know,Yes,Maybe
+38,Netherlands,Yes,,,
+34,France,No,I don't know,Maybe,Maybe
+44,United States,No,Yes,Maybe,No
+45,United States,No,I don't know,Maybe,Maybe
+45,United States,No,Yes,Yes,Maybe
+30,United States,No,No,Yes,No
+34,United States,No,Yes,Maybe,No
+37,United States,No,I don't know,No,No
+38,United States,No,Yes,Maybe,No
+31,United States,No,Yes,No,No
+33,United States,No,I don't know,No,No
+29,United States,No,Yes,Yes,No
+35,United States,No,Yes,No,No
+42,Canada,No,No,Maybe,Maybe
+26,United States,No,I don't know,Yes,Maybe
+36,United States,No,Yes,Maybe,No
+21,United Kingdom,No,I don't know,Maybe,Maybe
+34,United States,No,Yes,Maybe,No
+40,Germany,Yes,,,
+35,United States,No,Yes,Yes,Maybe
+44,United States,No,Yes,No,No
+35,Canada,No,I don't know,No,No
+45,United States,No,No,Yes,Maybe
+42,United States,No,Yes,No,No
+40,United States,Yes,,,
+50,United States,Yes,,,
+36,United States,No,Yes,Maybe,No
+31,United States,Yes,,,
+29,United States,No,I don't know,No,No
+37,United States,No,Yes,Maybe,Maybe
+31,United States,No,No,Yes,Maybe
+42,Canada,No,I don't know,Yes,Maybe
+25,United States,No,Yes,Maybe,Maybe
+27,United States,No,Yes,No,No
+41,United States,No,Yes,Maybe,Maybe
+41,United States,No,Yes,Maybe,No
+55,United States,No,Yes,Yes,Maybe
+21,United States,No,Yes,Maybe,No
+37,Netherlands,No,I don't know,Maybe,Maybe
+34,Netherlands,No,I don't know,Maybe,Maybe
+40,United Kingdom,No,Yes,Maybe,No
+25,Netherlands,Yes,,,
+36,Germany,No,Yes,Maybe,No
+25,Germany,No,No,Maybe,Maybe
+35,United States,No,I don't know,Maybe,No
+37,United States,No,No,Maybe,Maybe
+45,United States,No,Yes,Maybe,Maybe
+26,United States,No,No,Maybe,Maybe
+23,United States,No,Yes,Maybe,Maybe
+22,United States,No,Yes,Maybe,No
+46,United States,No,I don't know,No,No
+31,United Kingdom,No,No,No,No
+27,United States,No,Yes,No,No
+37,United Kingdom,No,No,No,No
+37,United Kingdom,No,I don't know,Maybe,Maybe
+26,Netherlands,No,Not eligible for coverage / N/A,No,No
+23,Netherlands,No,No,No,No
+40,United States,No,Yes,Maybe,No
+29,Denmark,No,No,No,No
+37,United States,No,Yes,No,No
+34,United States,No,Yes,No,No
+40,United States,No,Yes,No,No
+39,United States,No,Yes,Maybe,No
+28,United States,No,Yes,Maybe,No
+28,Belgium,Yes,,,
+27,Germany,No,No,No,No
+48,United Kingdom,Yes,,,
+49,United States,No,Yes,Maybe,Maybe
+35,United Kingdom,No,No,Maybe,No
+35,Sweden,No,I don't know,Maybe,No
+38,United Kingdom,Yes,,,
+32,United States,No,Yes,Maybe,No
+42,United States,No,Yes,Yes,Maybe
+33,United States,No,Yes,Maybe,No
+35,United Kingdom,No,I don't know,No,No
+24,Russia,No,I don't know,No,No
+29,United States,No,Yes,No,No
+29,United States,No,I don't know,Maybe,No
+24,United Kingdom,No,Not eligible for coverage / N/A,No,No
+30,Sweden,No,I don't know,Maybe,No
+30,United States,No,I don't know,Maybe,No
+44,United States,No,No,Yes,No
+37,United Kingdom,No,Yes,No,No
+28,Germany,No,No,No,No
+42,United States,No,Yes,No,No
+30,United Kingdom,No,Yes,Maybe,No
+36,Russia,No,I don't know,Maybe,Maybe
+30,Russia,No,I don't know,Maybe,Maybe
+29,United States,No,I don't know,Maybe,Maybe
+25,United States,No,I don't know,Maybe,Maybe
+25,Belgium,No,No,No,No
+24,Russia,No,I don't know,No,No
+25,Russia,No,No,Yes,No
+31,Denmark,No,Yes,No,No
+37,Canada,No,Yes,Maybe,No
+35,United States,No,I don't know,No,No
+26,Spain,No,Not eligible for coverage / N/A,Maybe,Maybe
+31,United Kingdom,No,Yes,No,No
+29,United States,No,Yes,Maybe,No
+33,France,No,I don't know,Maybe,Maybe
+30,India,No,No,Maybe,No
+30,United States,No,Yes,Maybe,No
+29,United States,No,Yes,Maybe,Maybe
+25,United States,No,I don't know,Maybe,Maybe
+27,United States,No,Yes,No,No
+26,Germany,No,Yes,No,No
+38,United States,No,Yes,No,No
+49,United States,No,Yes,Yes,No
+30,United States,No,Yes,No,No
+34,France,Yes,,,
+31,Russia,No,No,Maybe,No
+29,United States,Yes,,,
+31,Germany,No,No,Maybe,No
+34,Germany,No,Not eligible for coverage / N/A,Yes,Maybe
+28,United States,No,I don't know,Maybe,No
+35,United Kingdom,Yes,,,
+27,Germany,No,I don't know,No,No
+33,Germany,Yes,,,
+37,United States,No,I don't know,Maybe,Maybe
+45,United Kingdom,No,Not eligible for coverage / N/A,Yes,No
+31,United States,No,No,No,No
+36,United States,No,No,Maybe,Maybe
+30,United States,No,Yes,Maybe,No
+33,United States,No,Yes,Maybe,Maybe
+45,Canada,No,Yes,Maybe,No
+30,United States,No,Yes,No,No
+30,United States,No,Yes,Maybe,Maybe
+29,United States,Yes,,,
+36,Mexico,No,No,No,No
+28,United States,No,Yes,No,No
+36,United States,No,Yes,No,No
+37,United States,No,Yes,Maybe,No
+29,United States,No,Yes,No,No
+25,United States,No,Yes,No,No
+34,United States,No,Yes,No,No
+37,Canada,No,Yes,Maybe,Maybe
+40,United States,No,Yes,Maybe,No
+32,United States,No,Yes,Yes,Maybe
+38,United Kingdom,No,I don't know,Maybe,No
+31,United States,No,Yes,Maybe,No
+28,United States,No,Yes,No,No
+27,United Kingdom,No,No,Yes,Maybe
+28,United States,No,Yes,Maybe,No
+26,Germany,No,I don't know,No,No
+40,United States,No,Yes,No,No
+42,United States,No,Yes,No,No
+36,United States,No,Yes,No,No
+44,United Kingdom,Yes,,,
+24,United States,No,Yes,Maybe,Maybe
+44,United States,No,I don't know,Yes,Yes
+31,United States,No,Yes,No,No
+49,United States,Yes,,,
+27,United States,No,Yes,Maybe,Maybe
+27,United States,No,Yes,No,No
+28,United States,No,Yes,No,No
+20,United States,No,Yes,Yes,Maybe
+41,Germany,Yes,,,
+38,Australia,No,No,Yes,No
+29,United States,No,I don't know,Yes,Maybe
+44,United States,No,Yes,Maybe,No
+31,United States,No,I don't know,No,No
+54,United States,No,No,Yes,Maybe
+33,Germany,No,I don't know,No,No
+29,Netherlands,No,No,Maybe,Maybe
+26,United Kingdom,No,I don't know,No,No
+26,United Kingdom,No,I don't know,No,No
+34,United Kingdom,Yes,,,
+38,United States,No,I don't know,Yes,Yes
+30,United Kingdom,No,No,No,No
+34,United Kingdom,Yes,,,
+47,Australia,No,Yes,No,No
+33,Switzerland,No,Yes,No,No
+22,United Kingdom,No,I don't know,No,No
+28,United Kingdom,No,Not eligible for coverage / N/A,No,No
+31,United Kingdom,No,Yes,No,No
+24,United Kingdom,No,Not eligible for coverage / N/A,Maybe,No
+56,Australia,No,No,Maybe,Maybe
+57,Australia,Yes,,,
+39,Spain,No,I don't know,Maybe,No
+21,United Kingdom,No,No,Maybe,No
+31,Russia,No,I don't know,No,No
+63,Canada,Yes,,,
+46,Australia,Yes,,,
+32,United Kingdom,No,I don't know,Maybe,No
+35,United Kingdom,Yes,,,
+34,United Kingdom,No,Yes,No,No
+35,United States,No,Not eligible for coverage / N/A,Maybe,Maybe
+31,Norway,No,No,No,No
+35,United States,Yes,,,
+36,United States,No,I don't know,No,No
+50,United States,No,Yes,Maybe,No
+31,United States,No,I don't know,No,No
+47,United States,No,Yes,Maybe,Maybe
+32,Canada,No,I don't know,Maybe,Maybe
+23,Canada,No,Yes,No,No
+43,Canada,No,Yes,Maybe,No
+26,Canada,No,Yes,No,No
+26,Canada,No,I don't know,No,No
+55,Canada,No,Yes,No,No
+27,Canada,No,Yes,No,No
+34,Argentina,No,Not eligible for coverage / N/A,Maybe,No
+25,India,No,No,Yes,Maybe
+35,United States,No,I don't know,Yes,No
+37,Netherlands,Yes,,,
+38,United States,No,Yes,No,No
+29,Canada,No,Yes,Yes,Maybe
+28,United Kingdom,No,Yes,Maybe,No
+29,United Kingdom,No,Not eligible for coverage / N/A,No,No
+40,United States,No,Yes,No,No
+25,United States,No,Yes,No,No
+29,Sweden,Yes,,,
+29,United States,No,Yes,No,No
+35,Netherlands,No,Yes,No,No
+25,United States,Yes,,,
+43,United States,No,No,No,No
+26,Ireland,No,No,No,No
+31,Germany,No,I don't know,No,No
+31,United States,No,Yes,No,No
+45,United States,No,I don't know,Maybe,No
+23,Italy,No,No,Maybe,No
+39,United States,No,I don't know,Maybe,No
+27,United States,No,Yes,No,No
+28,United States,No,Yes,Maybe,No
+36,United States,No,I don't know,Maybe,No
+22,Germany,No,I don't know,Maybe,No
+51,United States,No,Yes,No,No
+39,Denmark,Yes,,,
+36,United States,Yes,,,
+28,United States,No,Not eligible for coverage / N/A,No,No
+40,United States,No,I don't know,Yes,Maybe
+35,United States,No,Yes,No,No
+38,United States,No,Yes,Yes,No
+29,United States,No,Yes,Yes,Maybe
+43,Netherlands,Yes,,,
+31,United States,No,Yes,Maybe,Maybe
+45,United States,No,No,Yes,No
+26,United States,No,I don't know,No,No
+42,United States,No,Yes,No,No
+28,United States,No,Yes,No,No
+28,United Kingdom,No,Not eligible for coverage / N/A,Maybe,No
+39,United States,No,Yes,Maybe,Yes
+34,United States,No,Yes,Maybe,Maybe
+28,United States,No,I don't know,No,No
+35,United States,No,Yes,Maybe,Maybe
+42,Canada,No,I don't know,No,No
+99,United States,No,Yes,No,No
+29,United Kingdom,Yes,,,
+34,Finland,Yes,,,
+28,Canada,No,Yes,Maybe,No
+22,Russia,No,I don't know,Maybe,No
+28,United States,No,Yes,Yes,Maybe
+26,United States,Yes,,,
+21,Australia,No,Yes,Maybe,Maybe
+38,Netherlands,No,No,Yes,Maybe
+33,United States,No,Yes,No,No
+28,United States,No,Yes,No,No
+32,United States,No,Yes,No,No
+24,Australia,No,Not eligible for coverage / N/A,Yes,Maybe
+35,United States,No,I don't know,Maybe,No
+41,United States,Yes,,,
+38,United States,Yes,,,
+24,United States,No,I don't know,Yes,Yes
+30,United States,No,Yes,No,No
+47,United States,No,Yes,Yes,Yes
+26,United States,No,Yes,Maybe,No
+32,United States,No,Yes,No,No
+32,United States,No,I don't know,Maybe,No
+37,United States,No,I don't know,No,No
+33,Netherlands,Yes,,,
+28,United Kingdom,No,No,No,No
+22,Netherlands,No,I don't know,Maybe,Maybe
+30,United States,No,I don't know,No,Maybe
+42,United States,Yes,,,
+34,United States,No,Yes,Maybe,No
+32,United States,No,Yes,Maybe,No
+37,United Kingdom,No,No,Maybe,Maybe
+31,United States,Yes,,,
+31,United States,No,I don't know,Yes,Maybe
+26,Colombia,No,No,Maybe,No
+30,United States,Yes,,,
+36,United States,No,Yes,Maybe,No
+38,United States,No,Yes,Maybe,No
+24,United States,No,Yes,No,No
+26,United States,No,I don't know,Maybe,Maybe
+37,United States,No,Yes,Maybe,No
+27,United Kingdom,No,I don't know,No,No
+32,Switzerland,Yes,,,
+32,Netherlands,No,Yes,No,No
+30,Netherlands,No,Yes,No,No
+26,Germany,No,No,No,No
+27,United Kingdom,Yes,,,
+27,Netherlands,Yes,,,
+29,Colombia,No,Not eligible for coverage / N/A,No,No
+26,Germany,No,Yes,Maybe,Maybe
+23,United States,No,Yes,No,No
+30,United States,No,Yes,No,No
+40,United States,No,Yes,Maybe,Maybe
+46,United States,No,I don't know,Maybe,Maybe
+26,United States,No,I don't know,No,No
+30,United States,No,Yes,Maybe,No
+27,Canada,No,No,Yes,Maybe
+35,United States,Yes,,,
+26,United States,No,Yes,Maybe,No
+35,Australia,No,I don't know,No,No
+29,Netherlands,No,I don't know,No,No
+34,United Kingdom,No,I don't know,No,No
+27,United States,Yes,,,
+39,United Kingdom,No,No,Maybe,No
+27,United Kingdom,No,I don't know,No,No
+31,Czech Republic,No,No,No,No
+26,United Kingdom,No,No,Maybe,No
+44,United States,No,Yes,Maybe,Maybe
+27,United States,No,Yes,Maybe,No
+57,United States,No,Yes,No,No
+34,Canada,Yes,,,
+38,United States,Yes,,,
+55,United States,Yes,,,
+28,Costa Rica,Yes,,,
+35,United States,No,I don't know,Yes,No
+26,United States,No,Yes,Maybe,Maybe
+22,United States,No,I don't know,No,No
+31,United States,No,I don't know,Maybe,Maybe
+31,United Kingdom,No,I don't know,Maybe,Maybe
+40,Germany,Yes,,,
+26,United States,No,Yes,Maybe,No
+36,United States,No,No,Yes,No
+33,United States,No,Yes,No,No
+24,United States,No,Yes,No,No
+22,Vietnam,No,No,Maybe,Maybe
+33,United States,No,Yes,No,No
+37,United States,No,Yes,Maybe,Maybe
+29,United States,No,Yes,No,No
+38,United States,No,Not eligible for coverage / N/A,No,No
+33,United States,No,No,Maybe,Maybe
+44,Canada,No,I don't know,Yes,Yes
+23,United States,No,Yes,No,No
+30,United States,Yes,,,
+30,United States,No,I don't know,Yes,No
+28,United States,No,Yes,No,No
+39,United States,No,Yes,No,No
+24,United States,No,No,Yes,No
+27,Netherlands,Yes,,,
+35,United States,No,Yes,No,No
+23,United States,No,No,No,No
+37,United States,No,Yes,No,No
+35,United States,No,Yes,No,No
+27,United States,No,Yes,No,No
+27,United States,No,I don't know,No,No
+27,United States,No,Yes,Maybe,No
+42,United States,No,I don't know,Maybe,Maybe
+32,United States,No,Yes,Maybe,Maybe
+26,Finland,No,I don't know,No,No
+28,Bulgaria,No,I don't know,Yes,No
+28,United States,No,I don't know,Yes,No
+32,United States,No,Yes,Maybe,No
+43,United States,Yes,,,
+34,United States,No,Yes,Maybe,No
+61,United States,No,I don't know,Maybe,Maybe
+50,United States,Yes,,,
+38,India,Yes,,,
+51,Germany,No,Not eligible for coverage / N/A,Yes,Maybe
+38,Ireland,Yes,,,
+34,United States,No,I don't know,No,No
+43,United States,No,No,Maybe,Maybe
+43,United States,No,Yes,Yes,No
+44,United States,No,No,Maybe,No
+35,United States,No,I don't know,Maybe,No
+50,United States,No,Yes,No,No
+29,United States,No,Yes,Maybe,No
+29,United States,No,Yes,No,No
+36,Canada,No,Yes,Maybe,Maybe
+33,Australia,Yes,,,
+50,Australia,Yes,,,
+46,United States,No,I don't know,Maybe,Maybe
+44,New Zealand,Yes,,,
+23,United States,No,Yes,Yes,Maybe
+41,United States,No,I don't know,Maybe,No
+31,Canada,No,Yes,No,Maybe
+55,United States,No,No,Yes,No
+34,United States,No,No,Yes,Maybe
+28,United States,No,Yes,No,No
+33,United States,No,Yes,No,No
+29,United States,No,Yes,Yes,Yes
+33,United States,No,Yes,No,No
+28,United States,Yes,,,
+28,United States,No,Yes,Maybe,No
+32,United States,No,Yes,No,No
+36,United States,No,Yes,No,No
+45,United Kingdom,No,I don't know,Yes,No
+29,Lithuania,Yes,,,
+23,France,No,No,Maybe,No
+54,Canada,Yes,,,
+61,United States,Yes,,,
+29,United States,No,I don't know,Yes,Yes
+31,Australia,No,Not eligible for coverage / N/A,Maybe,No
+37,United States,Yes,,,
+29,Germany,No,No,Yes,Maybe
+28,United Kingdom,Yes,,,
+30,United Kingdom,No,I don't know,No,No
+55,United Kingdom,No,Yes,No,No
+38,United States,No,I don't know,Maybe,Maybe
+20,Canada,No,I don't know,Yes,No
+25,United States,No,No,No,No
+22,Spain,Yes,,,
+35,United Kingdom,Yes,,,
+27,United States,No,I don't know,Maybe,No
+24,United States,No,No,Maybe,Maybe
+39,Australia,Yes,,,
+29,Brazil,No,I don't know,No,No
+40,United States,No,No,Yes,No
+30,United States,No,No,Maybe,No
+32,Canada,No,Yes,Maybe,No
+34,Germany,Yes,,,
+35,Canada,No,Yes,No,No
+30,United States,Yes,,,
+36,United Kingdom,No,No,Maybe,No
+26,Sweden,No,I don't know,No,No
+31,Netherlands,No,I don't know,Maybe,No
+33,South Africa,No,Not eligible for coverage / N/A,No,No
+30,United Kingdom,Yes,,,
+46,United Kingdom,No,I don't know,Maybe,Maybe
+32,United States,No,No,Maybe,No
+34,United States,No,Yes,Maybe,No
+41,United States,No,I don't know,No,No
+32,United States,No,I don't know,No,No
+47,United States,No,Yes,Maybe,Maybe
+29,United States,No,I don't know,No,No
+36,United States,No,Yes,Maybe,No
+32,United States,No,No,Yes,No
+29,United States,No,I don't know,No,No
+22,United Kingdom,No,Not eligible for coverage / N/A,No,No
+32,United States,No,Yes,Yes,No
+19,United States,No,Yes,No,Maybe
+30,South Africa,No,No,No,No
+32,United States,No,I don't know,No,No
+22,United States,No,I don't know,No,No
+30,Poland,Yes,,,
+323,United States,No,Yes,No,No
+33,Slovakia,No,No,No,No
+48,United Kingdom,No,No,Yes,Maybe
+45,Germany,No,No,Maybe,Maybe
+28,United Kingdom,No,I don't know,No,No
+44,United States,No,I don't know,No,No
+31,United States,No,No,Maybe,No
+31,United States,No,Yes,No,No
+29,United States,No,Yes,No,No
+26,United States,No,Yes,Maybe,Maybe
+35,United States,No,Yes,No,No
+44,Austria,Yes,,,
+45,United States,No,Yes,Yes,No
+22,United States,No,Yes,No,No
+34,United States,No,Yes,No,No
+35,United Kingdom,No,I don't know,Maybe,No
+39,United States,Yes,,,
+26,Denmark,No,Not eligible for coverage / N/A,Yes,No
+41,United States,Yes,,,
+24,Australia,No,Not eligible for coverage / N/A,Yes,No
+24,United States,No,I don't know,No,No
+34,United States,No,Yes,No,No
+36,Australia,No,No,No,No
+41,Australia,No,Yes,Yes,Maybe
+21,United States,No,Not eligible for coverage / N/A,Maybe,No
+33,Bangladesh,No,I don't know,Maybe,No
+32,India,No,I don't know,No,No
+62,United States,No,Yes,No,No
+37,United States,No,Yes,Maybe,No
+32,United States,No,I don't know,No,No
+31,United States,No,Yes,Maybe,Maybe
+28,United States,No,I don't know,Maybe,Maybe
+48,United States,Yes,,,
+40,Algeria,Yes,,,
+29,Norway,No,Yes,No,No
+33,Germany,No,Yes,Maybe,Maybe
+27,Finland,No,I don't know,No,No
+24,Australia,No,Not eligible for coverage / N/A,No,No
+28,Netherlands,Yes,,,
+42,United States,No,Yes,No,No
+28,United Kingdom,No,No,No,No
+40,Canada,No,I don't know,Maybe,Maybe
+32,United States,No,Yes,Maybe,Maybe
+33,United States,Yes,,,
+40,United States,Yes,,,
+26,United States,No,Yes,Maybe,No
+39,United States,No,I don't know,Maybe,Maybe
+38,United Kingdom,No,Not eligible for coverage / N/A,No,No
+34,United States,No,Yes,Yes,No
+44,Netherlands,No,I don't know,Maybe,Maybe
+54,United Kingdom,Yes,,,
+24,Pakistan,No,Yes,No,No
+31,United States,No,Yes,No,No
+47,United States,No,Yes,Yes,No
+30,Australia,No,Not eligible for coverage / N/A,No,No
+34,United States,Yes,,,
+29,United States,No,Yes,No,No
+27,United States,No,Yes,Maybe,No
+29,United States,No,Yes,No,No
+43,United States,Yes,,,
+31,United States,No,Yes,Maybe,No
+27,Norway,No,I don't know,Yes,Maybe
+29,United Kingdom,No,No,Maybe,No
+29,United Kingdom,No,Not eligible for coverage / N/A,No,No
+42,United States,No,Yes,Maybe,No
+26,United States,No,Yes,Maybe,No
+26,Switzerland,No,I don't know,No,No
+34,United Kingdom,Yes,,,
+24,United States,No,Yes,Maybe,Maybe
+25,United States,No,Yes,Yes,Maybe
+22,United States,No,Yes,No,No
+33,United States,No,Yes,Maybe,No
+53,United States,No,Yes,No,No
+32,Canada,No,Yes,Maybe,No
+32,United States,No,No,Maybe,Maybe
+55,United States,Yes,,,
+27,France,No,I don't know,Maybe,No
+34,United Kingdom,No,Not eligible for coverage / N/A,Maybe,Maybe
+26,United States,No,No,Maybe,Maybe
+25,United States,No,I don't know,Maybe,No
+39,United Kingdom,No,Yes,Maybe,No
+32,United States,No,I don't know,No,No
+46,United Kingdom,Yes,,,
+52,United States,Yes,,,
+33,United Kingdom,No,I don't know,Yes,Maybe
+58,United States,No,Yes,Maybe,No
+30,Canada,No,No,Yes,Yes
+46,Sweden,Yes,,,
+45,United States,No,I don't know,Maybe,No
+26,Canada,No,No,Yes,Yes
+22,United States,No,Yes,Yes,No
+21,United States,No,I don't know,Yes,No
+3,Canada,No,Yes,Maybe,No
+34,United States,No,I don't know,No,Maybe
+25,United States,No,I don't know,No,No
+27,United States,No,Yes,No,No
+25,United States,No,Yes,Yes,No
+33,United Kingdom,No,Yes,No,No
+26,Canada,Yes,,,
+36,United States,No,No,Maybe,Maybe
+26,United Kingdom,No,No,Yes,Maybe
+34,United States,No,Not eligible for coverage / N/A,No,No
+34,United States,No,Yes,Yes,No
+25,United States,No,Yes,Maybe,No
+33,United States,Yes,,,
+27,Canada,No,No,Maybe,No
+24,Canada,No,I don't know,Maybe,Maybe
+47,United States,No,Yes,Maybe,No
+37,United States,No,Yes,No,No
+35,United States,No,I don't know,Yes,Maybe
+30,United States,No,Yes,Yes,No
+42,United States,No,Yes,Maybe,No
+36,United States,Yes,,,
+31,United States,No,Yes,No,No
+28,United States,No,Yes,Maybe,No
+36,United States,No,Yes,Maybe,No
+36,United States,No,Yes,Yes,No
+32,Canada,No,I don't know,No,No
+42,United States,Yes,,,
+41,United States,No,Yes,Maybe,No
+36,Sweden,No,Yes,No,No
+23,United States,No,Yes,Yes,No
+54,United States,No,Yes,No,Maybe
+34,United States,No,I don't know,Maybe,No
+36,Netherlands,No,I don't know,Yes,No
+27,United States,No,Yes,Maybe,No
+32,United States,No,Yes,Maybe,No
+21,Germany,No,Yes,Yes,Yes
+44,United States,No,I don't know,No,No
+33,United States,No,I don't know,No,No
+38,United Kingdom,No,Yes,Maybe,No
+38,Ireland,No,Yes,Maybe,No
+38,United States,Yes,,,
+22,Brazil,No,I don't know,Maybe,Maybe
+33,United States,Yes,,,
+27,Canada,No,I don't know,Maybe,Maybe
+55,United States,Yes,,,
+66,United States,No,No,Maybe,No
+25,United States,No,I don't know,Maybe,Maybe
+22,Netherlands,No,Not eligible for coverage / N/A,Maybe,No
+29,Brazil,No,No,No,No
+33,New Zealand,No,No,Yes,No
+27,Sweden,No,No,Maybe,No
+44,United States,No,I don't know,Yes,Maybe
+38,Bulgaria,Yes,,,
+32,United States,No,I don't know,Maybe,No
+59,United States,No,Yes,Yes,No
+43,Sweden,Yes,,,
+55,Germany,Yes,,,
+32,United States,No,Yes,No,No
+41,United Kingdom,No,Not eligible for coverage / N/A,Yes,No
+38,United States,No,No,No,No
+46,United States,Yes,,,
+43,United Kingdom,No,No,No,No
+29,United States,No,Yes,No,No
+42,United States,Yes,,,
+25,United States,No,I don't know,No,No
+49,Afghanistan,No,Yes,No,No
+36,Pakistan,No,No,Yes,Yes
+30,United Kingdom,Yes,,,
+28,United States,No,I don't know,Maybe,No
+37,United States,No,I don't know,Maybe,Maybe
+23,United States,No,Not eligible for coverage / N/A,Yes,No
+37,United Kingdom,Yes,,,
+42,Netherlands,Yes,,,
+32,United States,No,Yes,No,No
+28,Canada,No,No,No,No
+28,United Kingdom,No,I don't know,No,No
+29,United States,No,Yes,Maybe,No
+35,United States,No,I don't know,No,No
+31,United States,Yes,,,
+46,United States,Yes,,,
+19,United States,Yes,,,
+35,Sweden,No,Not eligible for coverage / N/A,No,No
+31,United Kingdom,No,Yes,No,No
+31,United States,Yes,,,
+37,Canada,No,Yes,No,No
+34,United States,No,I don't know,No,No
+39,United States,No,Yes,No,No
+29,United States,Yes,,,
+29,United States,No,Yes,Maybe,No
+63,United States,No,Yes,No,No
+45,Australia,Yes,,,
+35,Greece,Yes,,,
+32,United Kingdom,Yes,,,
+44,United States,Yes,,,
+28,United Kingdom,No,No,Yes,Yes
+39,Ireland,Yes,,,
+55,United States,Yes,,,
+33,United States,Yes,,,
+19,India,No,No,No,No
+40,United States,No,Yes,Maybe,No
+49,United States,No,Yes,Maybe,No
+27,Australia,No,Not eligible for coverage / N/A,No,No
+39,United States,No,Yes,Maybe,No
+35,United Kingdom,No,I don't know,No,No
+35,United States,No,I don't know,Maybe,Maybe
+42,United States,No,Yes,Maybe,Maybe
+35,Canada,No,Yes,No,No
+31,United States,No,I don't know,No,No
+44,United Kingdom,Yes,,,
+39,United States,No,Yes,Maybe,Maybe
+32,Canada,Yes,,,
+45,New Zealand,No,I don't know,Maybe,Maybe
+31,United States,Yes,,,
+47,United States,Yes,,,
+29,United States,No,No,Maybe,No
+20,United States,No,Yes,No,No
+34,United States,No,Not eligible for coverage / N/A,Yes,Maybe
+33,United Kingdom,No,Not eligible for coverage / N/A,No,No
+56,United States,Yes,,,
+35,Canada,Yes,,,
+31,United States,No,Yes,Yes,No
+36,United States,No,Yes,Maybe,No
+30,United States,No,Yes,Maybe,Maybe
+44,United States,No,Yes,Maybe,No
+23,United States,No,I don't know,Maybe,Maybe
+46,United States,No,Yes,Maybe,No
+33,United States,No,Yes,No,No
+32,United States,No,Yes,Yes,Maybe
+45,Australia,Yes,,,
+26,United States,No,No,No,No
+32,United States,Yes,,,
+28,United States,No,I don't know,No,No
+44,United States,Yes,,,
+42,United Kingdom,Yes,,,
+30,United States,No,Yes,Maybe,Maybe
+28,United States,No,I don't know,Yes,Maybe
+31,Canada,No,Yes,No,No
+29,United States,No,Yes,Maybe,No
+33,United States,No,I don't know,Maybe,No
+43,United States,No,Yes,Maybe,Maybe
+28,Australia,No,I don't know,No,No
+42,United Kingdom,Yes,,,
+38,United States,No,Yes,Maybe,No
+30,United States,No,Yes,Maybe,No
+51,United States,Yes,,,
+48,United States,No,I don't know,Maybe,Maybe
+39,New Zealand,Yes,,,
+28,Australia,No,No,Yes,Maybe
+37,United States,No,Yes,Maybe,No
+33,United States,No,Yes,Maybe,Maybe
+21,Australia,No,Not eligible for coverage / N/A,Yes,Yes
+25,United States,No,Yes,Yes,Yes
+15,Canada,Yes,,,
+40,United States,No,Yes,Maybe,Maybe
+30,Canada,No,No,Maybe,No
+27,Romania,Yes,,,
+25,India,No,No,No,Maybe
+38,Germany,No,Yes,Maybe,No
+24,United Kingdom,No,I don't know,Maybe,No
+23,United Kingdom,No,Not eligible for coverage / N/A,No,No
+39,United Kingdom,Yes,,,
+26,United States,No,I don't know,Maybe,No
+43,United Kingdom,No,I don't know,Maybe,Maybe
+30,New Zealand,No,I don't know,No,No
+35,Other,Yes,,,
+40,United Kingdom,No,I don't know,Maybe,No
+33,United Kingdom,No,Yes,Maybe,No
+35,Brunei,Yes,,,
+22,United Kingdom,No,No,Yes,Maybe
+28,United States,No,Yes,Maybe,No
+39,United States,No,Yes,Maybe,No
+33,United States,No,I don't know,No,No
+25,United Kingdom,Yes,,,
+37,United States,No,I don't know,No,No
+41,France,No,I don't know,Maybe,No
+30,United States,No,Yes,No,No
+42,United States,No,Yes,No,No
+52,United States,No,Yes,No,No
+30,Romania,No,No,No,No
+35,United States,No,Yes,No,No
+24,United States,No,I don't know,No,No
+39,United States,No,I don't know,No,No
+34,United States,No,Yes,Yes,Maybe
+32,United States,Yes,,,
+25,United Kingdom,Yes,,,
+43,Poland,No,No,Yes,Yes
+39,United States,No,Yes,No,No
+35,United States,Yes,,,
+34,United States,No,Yes,No,No
+38,United Kingdom,No,Yes,Maybe,No
+26,United States,No,Yes,Yes,Maybe
+24,Bulgaria,No,No,Maybe,No
+27,United States,No,I don't know,Yes,No
+25,United States,No,Yes,No,No
+37,United States,Yes,,,
+33,Canada,No,Yes,Maybe,No
+34,United States,No,No,Yes,No
+27,Canada,No,I don't know,Maybe,No
+33,United States,No,Yes,Maybe,No
+50,United States,No,Yes,Maybe,No
+54,United States,Yes,,,
+32,Canada,No,Yes,Yes,No
+39,Canada,No,I don't know,No,No
+36,United States,No,I don't know,No,No
+34,Canada,No,I don't know,Maybe,No
+31,United States,No,I don't know,Maybe,No
+36,United States,No,No,No,No
+48,United States,No,I don't know,No,No
+31,United States,No,I don't know,No,No
+32,United States,No,No,No,No
+32,United States,No,I don't know,Yes,Maybe
+31,United States,Yes,,,
+28,United States,No,Not eligible for coverage / N/A,No,No
+28,United Kingdom,No,I don't know,Yes,No
+33,United States,No,Yes,Yes,Maybe
+33,United States,Yes,,,
+59,United States,Yes,,,
+33,United States,Yes,,,
+37,United States,No,I don't know,Yes,Maybe
+27,Germany,No,I don't know,Maybe,No
+39,United States,No,No,No,No
+50,Germany,Yes,,,
+34,United States,No,Yes,Maybe,No
+50,Germany,Yes,,,
+31,Other,No,Not eligible for coverage / N/A,No,No
+39,United States,No,Yes,Yes,No
+46,United States,No,I don't know,Maybe,Maybe
+28,United States,No,I don't know,No,No
+32,France,No,I don't know,Maybe,No
+65,United States,Yes,,,
+37,United States,Yes,,,
+41,United States,Yes,,,
+38,United States,Yes,,,
+51,United States,No,I don't know,No,No
+29,United States,No,I don't know,No,No
+37,Japan,Yes,,,
+31,Canada,Yes,,,
+32,Iran,No,No,No,No
+31,Sweden,Yes,,,
+52,Switzerland,No,Not eligible for coverage / N/A,Maybe,No
+31,Switzerland,Yes,,,
+38,United Kingdom,Yes,,,
+35,United States,No,Yes,Yes,Maybe
+29,United States,Yes,,,
+63,United States,Yes,,,
+47,United States,Yes,,,
+43,Austria,Yes,,,
+38,Ireland,No,No,Maybe,No
+27,United States,No,I don't know,Maybe,No
+40,United States,No,I don't know,No,No
+32,South Africa,No,Not eligible for coverage / N/A,Yes,Maybe
+43,United States,Yes,,,
+28,Germany,No,Yes,Maybe,No
+46,United Kingdom,Yes,,,
+42,United States,No,No,Maybe,No
+31,United States,No,No,Maybe,No
+37,United States,Yes,,,
+35,Canada,No,No,No,No
+30,United States,Yes,,,
+35,Australia,No,Not eligible for coverage / N/A,No,No
+24,United States,No,Yes,Maybe,No
+23,India,No,No,Maybe,No
+39,France,Yes,,,
+38,France,No,No,No,No
+28,United Kingdom,Yes,,,
+30,United Kingdom,Yes,,,
+38,United Kingdom,Yes,,,
+33,France,No,I don't know,No,No
+35,United Kingdom,No,I don't know,No,No
+54,United Kingdom,Yes,,,
+30,Germany,No,I don't know,No,No
+32,United Kingdom,Yes,,,
+28,United States,No,I don't know,No,No
+39,Germany,No,No,No,No
+21,United States,No,No,Maybe,No
+31,Germany,No,Yes,Maybe,No
+30,United States,No,I don't know,Yes,Maybe
+25,United States,No,Yes,Maybe,No
+26,United Kingdom,No,Not eligible for coverage / N/A,Maybe,Maybe
+30,United States,No,Yes,No,No
+30,Italy,No,No,No,No
+31,Bulgaria,No,I don't know,No,No
+32,United States,No,I don't know,Maybe,No
+45,United Kingdom,No,No,No,No
+29,Switzerland,Yes,,,
+27,United States,No,Yes,Maybe,No
+28,United Kingdom,No,Not eligible for coverage / N/A,No,No
+38,United States,No,Yes,Maybe,No
+38,United States,No,Yes,Maybe,No
+34,Hungary,No,I don't know,No,No
+36,Netherlands,Yes,,,
+23,France,No,I don't know,No,No
+40,United States,No,Yes,Yes,Maybe
+39,United States,Yes,,,
+28,United States,No,I don't know,Maybe,No
+33,United States,No,I don't know,No,No
+32,United States,Yes,,,
+32,United States,No,Yes,Maybe,No
+27,United States,No,Yes,No,No
+33,Israel,No,No,Yes,No
+34,Japan,No,I don't know,Maybe,No
+38,India,Yes,,,
+35,United States,No,Yes,Maybe,Maybe
+39,United States,No,Yes,Maybe,No
+35,United States,No,Yes,No,No
+34,United States,No,I don't know,No,No
+44,United States,Yes,,,
+42,United States,No,Yes,No,No
+30,United States,No,Yes,Maybe,No
+55,United States,No,Yes,Yes,No
+46,United States,No,No,Maybe,No
+33,United States,No,Yes,No,No
+30,United States,No,Yes,Maybe,Maybe
+30,United Kingdom,No,No,No,No
+31,United States,No,Yes,Yes,Maybe
+38,Ireland,No,Yes,Maybe,No
+30,United Kingdom,No,Yes,Yes,No
+32,United States,No,Yes,No,No
+32,United Kingdom,No,No,Yes,No
+47,United States,No,Yes,Maybe,No
+39,United Kingdom,No,No,No,No
+35,United States,No,I don't know,Yes,No
+36,United States,No,Yes,Yes,Yes
+38,United States,No,Yes,Maybe,No
+30,United States,No,I don't know,Maybe,No
+33,United States,No,I don't know,Maybe,Maybe
+22,United States,No,I don't know,Yes,No
+35,United States,Yes,,,
+26,United States,No,I don't know,Maybe,No
+34,United States,No,Yes,No,No
+40,United States,Yes,,,
+37,Bulgaria,No,No,Yes,No
+43,Switzerland,No,No,Maybe,No
+20,United States,Yes,,,
+30,United States,No,I don't know,Maybe,No
+32,United States,No,Yes,No,No
+35,United States,No,Yes,Maybe,No
+29,United States,No,Yes,No,No
+29,United States,No,No,No,No
+30,United States,No,Yes,Maybe,No
+30,United States,No,I don't know,Maybe,No
+38,United States,No,Yes,No,No
+30,Brazil,No,Yes,Maybe,No
+26,Netherlands,No,No,No,Maybe
+27,Germany,Yes,,,
+24,United States,No,No,No,No
+35,United States,No,Yes,Yes,Maybe
+38,Sweden,No,Yes,Maybe,No
+36,United States,No,Yes,Maybe,Maybe
+34,United Kingdom,Yes,,,
+35,United States,No,Yes,No,No
+25,United States,No,I don't know,No,No
+32,Sweden,No,I don't know,No,No
+32,United States,No,No,Maybe,Maybe
+37,United States,Yes,,,
+28,Germany,No,I don't know,No,No
+34,United Kingdom,No,Yes,Maybe,No
+40,United States,No,Yes,Maybe,No
+45,United States,No,Yes,Maybe,Maybe
+31,Sweden,No,I don't know,No,No
+30,United States,No,Yes,Maybe,No
+47,United Kingdom,No,Yes,Maybe,Maybe
+48,United Kingdom,No,I don't know,Yes,Maybe
+44,United States,Yes,,,
+29,United States,No,Not eligible for coverage / N/A,Yes,Maybe
+52,United States,No,Yes,No,No
+34,Sweden,No,Yes,No,No
+34,Netherlands,No,Yes,No,No
+27,United States,No,I don't know,Maybe,No
+30,Russia,No,No,Maybe,No
+40,United Kingdom,No,Yes,No,No
+26,Canada,Yes,,,
+36,United Kingdom,Yes,,,
+35,United Kingdom,No,I don't know,No,No
+43,United Kingdom,No,Yes,Maybe,No
+36,United Kingdom,No,No,Maybe,Maybe
+32,United States,No,Yes,Yes,No
+36,Ireland,Yes,,,
+38,New Zealand,No,No,Yes,No
+35,United States,No,Yes,Maybe,No
+35,Australia,No,Not eligible for coverage / N/A,Maybe,Maybe
+45,United States,No,Yes,Yes,Maybe
+47,New Zealand,Yes,,,
+27,United States,No,I don't know,Maybe,No
+26,United States,No,I don't know,Maybe,Maybe
+51,Australia,Yes,,,
+25,Ecuador,No,No,Yes,No
+41,South Africa,No,No,Yes,Maybe
+34,United States,No,Yes,Maybe,No
+43,Sweden,No,No,Maybe,No
+33,United Kingdom,No,I don't know,Yes,No
+37,Australia,Yes,,,
+27,United Kingdom,No,No,Yes,No
+54,United States,Yes,,,
+38,Italy,No,I don't know,No,No
+42,Germany,No,No,Maybe,Maybe
+30,United Kingdom,No,Yes,Maybe,No
+43,Australia,No,Yes,Maybe,Maybe
+33,Netherlands,Yes,,,
+37,Australia,No,Not eligible for coverage / N/A,No,No
+25,United States,No,Yes,Maybe,Maybe
+27,Australia,No,Not eligible for coverage / N/A,Yes,No
+27,Canada,Yes,,,
+27,United States,No,Yes,Yes,Yes
+35,Germany,Yes,,,
+24,United Kingdom,No,No,Maybe,No
+31,Switzerland,No,Not eligible for coverage / N/A,Maybe,No
+31,Germany,No,I don't know,No,No
+32,United States,No,Yes,Maybe,No
+33,Australia,No,No,Maybe,No
+56,United States,Yes,,,
+43,United States,No,Yes,Yes,Yes
+49,Australia,No,Yes,No,No
+35,Bulgaria,No,No,Maybe,No
+53,Canada,No,Yes,Yes,Yes
+45,United States,No,I don't know,No,No
+40,United States,No,Yes,Yes,Maybe
+52,United States,No,Not eligible for coverage / N/A,Yes,Maybe
+30,France,Yes,,,
+41,New Zealand,No,Yes,Maybe,No
+31,Netherlands,Yes,,,
+31,Switzerland,No,Not eligible for coverage / N/A,No,No
+24,United States,Yes,,,
+44,Australia,No,No,Maybe,No
+37,United States,No,Yes,Maybe,No
+22,Brazil,No,No,Maybe,Yes
+31,United States,No,Yes,Maybe,No
+36,Bulgaria,No,No,Yes,Maybe
+28,Romania,Yes,,,
+25,United States,No,I don't know,Maybe,Maybe
+49,United States,Yes,,,
+22,United States,No,Not eligible for coverage / N/A,No,No
+43,United States,Yes,,,
+33,United States,Yes,,,
+36,United States,No,Yes,Yes,Maybe
+26,United States,No,Yes,Yes,Yes
+43,United States,No,Yes,No,No
+21,United States,Yes,,,
+39,Australia,No,Not eligible for coverage / N/A,Maybe,Maybe
+46,United Kingdom,No,Yes,Maybe,No
+32,United Kingdom,No,Not eligible for coverage / N/A,Yes,No
+31,United Kingdom,Yes,,,
+39,Germany,Yes,,,
+44,Sweden,No,I don't know,Maybe,Maybe
+36,United States,No,Yes,Yes,Maybe
+31,United Kingdom,No,I don't know,No,No
+30,United States,Yes,,,
+36,United States,No,Yes,Yes,Yes
+31,United States,Yes,,,
+23,Canada,No,No,No,No
+23,Canada,No,Yes,Maybe,No
+30,United States,Yes,,,
+34,Canada,Yes,,,
+49,United States,No,No,No,No
+25,Bosnia and Herzegovina,No,No,Maybe,No
+39,United Kingdom,No,No,Maybe,No
+37,Germany,No,No,Yes,Yes
+26,United States,No,I don't know,No,No
+41,United States,No,I don't know,Maybe,No
+28,Netherlands,No,No,No,No
+33,Sweden,No,Not eligible for coverage / N/A,Maybe,No
+74,United States,No,No,Yes,Maybe
+28,Netherlands,No,I don't know,Maybe,No
+47,United States,No,No,Yes,Maybe
+25,Bosnia and Herzegovina,No,I don't know,Yes,No
+51,United States,No,Yes,No,Maybe
+26,United States,No,Yes,Yes,Maybe
+24,United States,No,Yes,Yes,Maybe
+33,United States,Yes,,,
+32,United States,No,Yes,Yes,No
+57,United States,No,Yes,Yes,Maybe
+39,United States,No,Yes,No,No
+26,United States,No,No,Maybe,No
+38,United States,No,I don't know,Yes,Maybe
+33,Finland,No,Yes,Maybe,No
+30,United States,No,Yes,Maybe,No
+25,United States,No,I don't know,Maybe,No
+40,United States,No,Yes,Maybe,No
+26,United States,No,Yes,Maybe,Maybe
+34,United States,No,Yes,Maybe,No
+46,United States,No,Yes,Yes,Maybe
+31,United States,No,Not eligible for coverage / N/A,Yes,Maybe
+42,Ireland,Yes,,,
+30,United States,No,I don't know,Maybe,No
+26,United States,Yes,,,
+29,Austria,No,Not eligible for coverage / N/A,Maybe,No
+31,United States,No,Yes,No,No
+40,United States,No,I don't know,No,No
+39,United States,No,Yes,Maybe,No
+37,United States,No,Yes,Maybe,No
+27,United States,No,I don't know,Maybe,No
+45,United States,No,I don't know,Maybe,Maybe
+29,United States,No,I don't know,Maybe,No
+47,United States,No,Yes,No,No
+33,United States,No,I don't know,No,No
+32,United States,No,I don't know,Maybe,Maybe
+29,United States,No,I don't know,No,No
+36,United States,No,Yes,No,No
+35,United States,No,I don't know,Yes,No
+40,United States,No,Yes,Maybe,No
+36,United States,No,Yes,Maybe,No
+39,United States,No,I don't know,Yes,Maybe
+38,United States,No,Yes,No,No
+23,United States,No,I don't know,No,No
+29,United States,No,No,Yes,Maybe
+38,United States,No,I don't know,No,No
+34,United States,No,Yes,Maybe,No
+28,Brazil,No,No,Maybe,Maybe
+38,New Zealand,No,No,No,No
+25,United States,No,Yes,Yes,Maybe
+36,United States,No,Yes,No,No
+57,United States,No,Not eligible for coverage / N/A,Yes,Yes
+46,Ireland,No,I don't know,Maybe,No
+49,United States,No,Yes,Yes,No
+34,United States,No,I don't know,Maybe,No
+43,United Kingdom,No,I don't know,No,No
+35,Ireland,Yes,,,
+32,United States,Yes,,,
+24,Sweden,No,Not eligible for coverage / N/A,No,No
+33,United States,No,Yes,Maybe,Maybe
+28,Finland,No,I don't know,No,No
+48,Germany,No,Yes,Maybe,Maybe
+33,United States,No,Yes,Yes,Yes
+40,Italy,No,Not eligible for coverage / N/A,No,No
+22,United States,Yes,,,
+22,United States,No,No,Yes,Maybe
+23,United States,No,Yes,Maybe,No
+33,Germany,No,No,No,No
+29,Netherlands,No,I don't know,Yes,No
+32,United States,No,Yes,No,No
+43,United States,No,Yes,Yes,No
+49,United States,No,Yes,No,No
+44,Italy,No,No,No,No
+29,United States,Yes,,,
+27,Canada,No,No,Yes,Maybe
+30,United States,No,I don't know,Yes,No
+43,United States,No,No,No,Maybe
+30,United States,No,Yes,Maybe,No
+33,United States,No,Yes,Maybe,Maybe
+27,United States,Yes,,,
+26,United States,No,I don't know,Yes,Yes
+47,Ireland,No,I don't know,Yes,Maybe
+30,United States,No,I don't know,Maybe,No
+39,United States,No,I don't know,Maybe,No
+36,United States,No,I don't know,Maybe,Maybe
+34,United Kingdom,No,No,No,No
+25,United States,No,Yes,Maybe,No
+28,Finland,No,I don't know,Maybe,No
+38,United States,No,Yes,No,No
+39,United States,No,Yes,No,No
+32,United States,No,I don't know,Maybe,No
+27,United States,No,I don't know,Maybe,No
+31,United States,No,Yes,Maybe,No
+30,United Kingdom,No,I don't know,No,No
+34,United Kingdom,Yes,,,
+26,United States,No,I don't know,Maybe,No
+27,United Kingdom,No,Yes,Maybe,Maybe
+29,United States,No,I don't know,No,No
+37,Canada,Yes,,,
+49,United States,Yes,,,
+39,United States,No,I don't know,Maybe,Maybe
+42,China,Yes,,,
+28,United States,No,Yes,Maybe,Maybe
+33,United States,Yes,,,
+30,United Kingdom,Yes,,,
+70,United States,No,Yes,No,No
+25,Germany,No,No,Maybe,No
+45,United Kingdom,No,I don't know,No,Maybe
+63,United States,No,Yes,No,No
+40,United States,No,Yes,No,No
+39,United States,No,Yes,Maybe,No
+31,United States,No,Yes,No,No
+34,United States,No,No,Yes,Yes
+44,United Kingdom,Yes,,,
+45,Ireland,No,Not eligible for coverage / N/A,Maybe,Maybe
+43,United States,No,Yes,No,No
+29,United States,No,Yes,Maybe,No
+27,United States,No,Yes,Maybe,Maybe
+37,United States,No,Yes,Maybe,Maybe
+41,United States,No,Yes,Yes,No
+30,United States,No,Yes,No,No
+28,United States,No,Yes,Maybe,No
+28,United States,No,I don't know,Maybe,No
+39,Switzerland,Yes,,,
+22,United Kingdom,No,Not eligible for coverage / N/A,Maybe,No
+31,United States,No,Yes,No,No
+29,United Kingdom,No,No,Maybe,Maybe
+33,Israel,No,No,Maybe,Maybe
+37,Germany,No,I don't know,Maybe,No
+42,United States,No,I don't know,No,No
+31,United Kingdom,No,I don't know,Yes,Yes
+34,United States,Yes,,,
+49,United States,Yes,,,
+29,Canada,No,Yes,Maybe,Maybe
+40,United States,No,Yes,No,No
+46,Netherlands,No,I don't know,Maybe,Maybe
+31,United States,Yes,,,
+43,Denmark,No,Yes,No,No
+45,Germany,Yes,,,
+32,United Kingdom,No,No,Yes,No
+38,United States,Yes,,,
+40,Netherlands,No,Yes,Maybe,No
+38,Germany,No,No,No,No
+32,United Kingdom,No,No,Maybe,No
+37,Mexico,No,I don't know,Yes,Maybe
+24,Sweden,Yes,,,
+25,United States,Yes,,,
+24,United States,No,No,No,No
+34,United States,No,I don't know,Yes,No
+55,United States,Yes,,,
+32,United States,No,Yes,No,No
+29,Romania,No,No,Maybe,Maybe
+20,United States,No,Not eligible for coverage / N/A,No,No
+41,United States,No,Yes,Maybe,No
+33,United States,No,Yes,No,No
+25,United States,No,I don't know,No,No
+29,United Kingdom,Yes,,,
+24,United States,No,Yes,Yes,No
+39,United States,No,I don't know,No,No
+39,United Kingdom,No,Yes,Maybe,No
+44,United Kingdom,Yes,,,
+30,Netherlands,Yes,,,
+31,Denmark,No,No,Maybe,Maybe
+37,United Kingdom,No,Not eligible for coverage / N/A,No,No
+42,United Kingdom,No,Not eligible for coverage / N/A,Maybe,No
+35,Canada,Yes,,,
+30,United States,No,I don't know,Maybe,No
+30,Canada,No,Yes,No,No
+33,United States,No,Yes,Yes,No
+31,United States,No,Not eligible for coverage / N/A,Maybe,Maybe
+39,United States,No,Yes,Yes,Yes
+27,Germany,No,No,No,No
+34,United Kingdom,Yes,,,
+31,United States,No,No,Maybe,Maybe
+30,United States,No,Yes,Maybe,No
+34,United States,No,Yes,No,No
+20,Canada,No,Not eligible for coverage / N/A,Maybe,No
+39,United States,Yes,,,
+50,United States,No,I don't know,Maybe,Maybe
+22,United States,No,No,Yes,Yes
+41,Spain,No,Yes,Maybe,No
+37,Germany,No,No,No,No
+32,United States,No,Yes,No,No
+26,Austria,Yes,,,
+38,Netherlands,No,Yes,No,No
+21,United Kingdom,Yes,,,
+27,United States,No,Yes,Maybe,No
+37,United States,No,No,Yes,Maybe
+45,United Kingdom,Yes,,,
+26,United States,Yes,,,
+30,United States,No,I don't know,Yes,Yes
+21,United States,No,No,Yes,No
+21,United States,No,I don't know,Maybe,No
+29,Germany,Yes,,,
+46,United States,No,Yes,Maybe,Maybe
+28,United States,No,Yes,No,No
+26,United States,No,Yes,Yes,Yes
+37,United States,Yes,,,
+44,United States,No,Yes,Yes,Yes
+45,United States,Yes,,,
+35,United States,No,I don't know,Maybe,No
+39,United States,No,Yes,No,No
+37,United States,No,I don't know,Maybe,No
+35,United States,No,No,Maybe,Maybe
+29,United States,No,Yes,Yes,Maybe
+49,United States,Yes,,,
+21,United States,No,I don't know,Maybe,No
+26,United States,No,Yes,Yes,Maybe
+35,Germany,No,Yes,No,No
+56,United States,No,Yes,Maybe,Maybe
+53,United States,Yes,,,
+48,United States,Yes,,,
+24,United Kingdom,No,Not eligible for coverage / N/A,Maybe,No
+37,Ireland,No,No,Yes,Maybe
+27,United States,No,No,Yes,Maybe
+39,United States,No,I don't know,No,No
+31,Finland,Yes,,,
+34,United States,No,Yes,Yes,No
+33,United Kingdom,No,No,No,No
+22,United Kingdom,No,No,Maybe,Maybe
+25,United Kingdom,No,Not eligible for coverage / N/A,No,No
+34,United Kingdom,No,I don't know,No,No
+30,United Kingdom,No,Not eligible for coverage / N/A,Yes,Maybe
+37,United Kingdom,No,No,Maybe,Maybe
+26,Chile,No,No,Yes,Maybe
+29,United States,No,Yes,No,No
+29,Chile,No,No,Yes,No
+27,United Kingdom,No,No,Maybe,No
+27,Chile,No,No,Yes,No
+23,United States,No,I don't know,No,No
+24,United States,No,I don't know,No,No
+22,Guatemala,Yes,,,
+28,United Kingdom,No,No,No,No
+22,United States,No,I don't know,Maybe,No
+32,United States,No,No,Maybe,Maybe
+35,United States,No,I don't know,Maybe,No
+26,United States,No,Yes,Maybe,No
+31,United Kingdom,No,No,Yes,Yes
+32,United States,Yes,,,
+37,Pakistan,No,No,Maybe,Maybe
+24,United Kingdom,No,No,No,No
+33,United States,No,Yes,No,No
+28,United States,No,Yes,No,No
+22,United States,No,I don't know,Maybe,Maybe
+46,Germany,No,Not eligible for coverage / N/A,Maybe,No
+30,United States,No,Yes,Maybe,No
+29,United States,No,I don't know,Maybe,Maybe
+22,United States,No,I don't know,Maybe,No
+24,United States,Yes,,,
+29,Taiwan,Yes,,,
+30,United States,No,Yes,Maybe,No
+25,United States,Yes,,,
+39,United States,No,Yes,Maybe,No
+31,Serbia,Yes,,,
+25,United States,Yes,,,
+39,United States,No,Yes,Maybe,No
+31,United States,No,Yes,Maybe,No
+35,United States,No,Yes,Yes,Maybe
+31,United States,Yes,,,
+23,United States,No,No,Yes,Maybe
+30,United States,No,Yes,Maybe,No
+28,France,No,Not eligible for coverage / N/A,Maybe,No
+23,Ireland,No,Yes,Yes,No
+26,United States,No,Yes,No,No
+24,United States,No,Yes,Maybe,No
+32,United States,No,Yes,Maybe,No
+35,United States,Yes,,,
+30,Estonia,No,Not eligible for coverage / N/A,No,No
+32,United States,No,Yes,Maybe,Maybe
+35,United States,No,Yes,Maybe,No
+26,United States,No,I don't know,Maybe,Maybe
+30,United States,No,Yes,Maybe,No
+29,United States,No,Yes,Maybe,No
+39,Canada,No,I don't know,Maybe,No
+37,United Kingdom,No,I don't know,Yes,No
+35,United States,No,Yes,Yes,Maybe
+25,United States,No,Not eligible for coverage / N/A,Yes,Yes
+22,United States,No,Not eligible for coverage / N/A,Maybe,No
+33,United Kingdom,No,Yes,Yes,Maybe
+23,United States,No,Yes,Yes,No
+29,Brazil,Yes,,,
+28,United States,No,Yes,Yes,Maybe
+30,United States,No,Yes,No,No
+28,United States,No,Yes,No,No
+28,United States,No,Yes,No,No
+37,United States,No,Yes,Maybe,Maybe
+30,United States,No,No,Maybe,No
+27,India,No,No,Yes,Maybe
+29,Canada,Yes,,,
+28,Poland,No,I don't know,Maybe,No
+26,Ireland,No,No,Yes,No
+29,Afghanistan,No,I don't know,Maybe,No
+34,Germany,Yes,,,
+36,United Kingdom,No,Yes,No,No
+38,Belgium,No,I don't know,Yes,Yes
+22,United States,No,Yes,Yes,Yes
+24,United States,No,Not eligible for coverage / N/A,No,No
+24,United States,No,Yes,No,No
+36,United States,No,Yes,No,No
+24,United States,No,Not eligible for coverage / N/A,Maybe,No
+24,United States,No,No,Maybe,No
+31,Netherlands,No,No,Yes,Maybe
+39,United Kingdom,No,Yes,Yes,No
+41,United States,No,Yes,Maybe,Maybe
+29,United Kingdom,Yes,,,
+37,Estonia,No,No,Maybe,No
+30,Canada,No,I don't know,Maybe,Maybe
+24,Canada,No,Yes,No,No
+22,Canada,No,Not eligible for coverage / N/A,Maybe,No
+24,Canada,No,Yes,No,No
+26,Canada,No,I don't know,Maybe,No
+38,United States,No,Yes,No,No
+34,United States,Yes,,,
+56,United States,Yes,,,
+52,United States,No,Yes,Maybe,Maybe
+30,United States,No,I don't know,Maybe,No
+25,Canada,No,Yes,Maybe,No
