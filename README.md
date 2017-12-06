@@ -1,5 +1,7 @@
 # Analyzing Tech Workers Perception of Discussing Mental Health Issues 
 
+Sean Miller <millsea0@u.washington.edu>
+
 ## Abstract
 
 This report seeks to further our understanding of the stigma against discussing mental health issues. We leverage two surveys (one in 2014 and one in 2016) collected by Open Sourcing Mental Illness Inc [OSMI](https://osmihelp.org/research/) which specifically targeted information technology (IT) workers and collected data about if they have mental health benefits and how they perceive discussing mental health issues at work. Using two of the questions used in both surveys we derive if a survey participant perceived discussing mental health issues at work to have more, equivalent or fewer consequences than discussing physical health issues. We then use a two-sided proportion z-test to analyze if the proportion of participants that view discussing mental health issues at work as having more consequences changed between the surveys. We found that there was not a statistically significant difference in this metric when comparing the surveys.
